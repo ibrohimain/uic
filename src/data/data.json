@@ -1,0 +1,419 @@
+{
+  "portfolio": {
+    "data": [
+      {
+        "type": "web-site",
+        "layoutBig": true,
+        "name": "Mening Konstitutsiyam",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/cache/0c/39/0c392b9a99ead3fb208087f2a1e1e145.jpg",
+        "url": "https://meningkonstitutsiyam.uz"
+      },
+      {
+        "type": "brend",
+        "layoutBig": false,
+        "name": "Toshkent davlat agrar universiteti",
+        "typeName": "brending",
+        "imgUrl": "https://uic.group/media/cache/29/88/29883e26588ac429b3ca86b3ac39efa6.jpg",
+        "url": "https://tdau.uz"
+      },
+      {
+        "type": "brend",
+        "layoutBig": false,
+        "name": "Toshkent davlat sharqshunoslik universiteti",
+        "typeName": "brending",
+        "imgUrl": "https://uic.group/media/cache/cc/39/cc392cc7e6083d974df22bdf3f7baae3.jpg",
+        "url": "https://tsuos.uz"
+      },
+      {
+        "type": "brend",
+        "layoutBig": false,
+        "name": "O'zsuvta'minot",
+        "typeName": "brending",
+        "imgUrl": "https://uic.group/media/cache/59/f1/59f1ca58bab7263f9c5eaff3033d5951.jpg",
+        "url": "https://uzsuv.uz/uz"
+      },
+      {
+        "type": "brend",
+        "layoutBig": false,
+        "name": "100ideas.uz",
+        "typeName": "brending",
+        "imgUrl": "https://uic.group/media/cache/b6/27/b6273a3cbd3fe1e5ad0e9b9acdccdfc4.jpg",
+        "url": "https://100ideas.uz/uz"
+      },
+      {
+        "type": "brend",
+        "layoutBig": false,
+        "name": "Abdulla Avloniy",
+        "typeName": "brending",
+        "imgUrl": "https://uic.group/media/cache/b3/6b/b36bc02390ec157e4a4a99eb5c0643b2.jpg",
+        "url": "https://onlinedu.uz"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": true,
+        "name": "Yashnobod texnopark",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/cache/77/4d/774ddc33fda844b44bb597539531dec6.jpg",
+        "url": "https://yait.uz"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": false,
+        "name": "UzSuv waterlab",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/cache/30/da/30da918dacc113dd034fb5dbb8063282.jpg",
+        "url": "https://uzsuv.uz/uz"
+      },
+      {
+        "type": "brend-web",
+        "layoutBig": false,
+        "name": "KitobPlus",
+        "typeName": "brending veb-saytlar",
+        "imgUrl": "https://uic.group/media/cache/bf/05/bf057b6e96af88ea2c68d1da6a1ee07e.jpg",
+        "url": "https://kitobplus.uz/"
+      },
+      {
+        "type": "mobile-program",
+        "layoutBig": false,
+        "name": "Go'zal ismlar",
+        "typeName": "mobil ilovalar",
+        "imgUrl": "https://uic.group/media/cache/d4/e7/d4e7073d362f8d5a16efbb3e656fc4ee.jpg",
+        "url": "https://apps.apple.com/tt/app/go-zal-ismlar/id1604318410"
+      },
+      {
+        "type": "mobile-program",
+        "layoutBig": false,
+        "name": "Obod system",
+        "typeName": "mobil ilovalar",
+        "imgUrl": "https://uic.group/media/Portfolio/Obod_system.png",
+        "url": "https://suvniasra.uz/uz"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": false,
+        "name": "Vacancy.argos.uz",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/vacancyargos.png",
+        "url": "https://vacancy.argos.uz/"
+      },
+      {
+        "type": "brend-web",
+        "layoutBig": true,
+        "name": "Vacancy.argos.uz",
+        "typeName": "brending veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/Lenta.png",
+        "url": "https://lenta.uz/"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": true,
+        "name": "UVA",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/UVA.png",
+        "url": "https://volontyor.uz/"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": true,
+        "name": "Ricomel",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/Ricomel.png",
+        "url": "https://ricomel.com/"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": true,
+        "name": "UzSuv",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/Uzsuv.png",
+        "url": "https://uzsuv.uz/"
+      },
+      {
+        "type": "brend-web",
+        "layoutBig": false,
+        "name": "ISEF",
+        "typeName": "brending veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/ISFF.png",
+        "url": "https://uzsuv.uz/"
+      },
+      {
+        "type": "web-site",
+        "layoutBig": false,
+        "name": "Sergeli tuman hokimiyati",
+        "typeName": "veb-saytlar",
+        "imgUrl": "https://uic.group/media/Portfolio/Sergeli_tuman_hokimiyati.png",
+        "url": "https://sergelihokimiyati.uz/uz"
+      }
+    ]
+  },
+
+  "services": {
+    "data": [
+      {
+        "id": "web",
+        "name": "Veb-saytlar",
+        "description": "Korporativ veb saytlardan tortib veb ilovalargacha boʻlgan murakkablikdagi internet saytlarni sifat kafolati bilan ishlab chiqamiz"
+      },
+      {
+        "id": "ux-design",
+        "name": "UI&UX dizayn",
+        "description": "Loyiha MindMapʼini ishlab chiqish va ushbu arxitektura asosida optimal yechimga ega dizaynlarni chizish"
+      },
+      {
+        "id": "Crm",
+        "name": "CRM tizimlar",
+        "description": "Biznesni va jarayonlarni avtomatlashtirish, kanselyariya ishlarini 100% gacha kamaytiruvchi boshqaruv elektron tizimlarini ishlab chiqish"
+      },
+      {
+        "id": "mobile",
+        "name": "Mobil ilovalar",
+        "description": "Istalgan qiyinchilikdagi mobil ilovalarni ishlab chiqish va ularni texnik qo'llab-quvvatlash"
+      },
+      {
+        "id": "media",
+        "name": "Media production",
+        "description": "2D/3D animatsiya, loyiha taqdimoti, reklamasi, videomateriallar va boshqa media resurslarni professional tarzida tayyorlash"
+      },
+      {
+        "id": "logo",
+        "name": "Logo va brending",
+        "description": "Loyihangiz uchun yagona va oʻziga xos boʻlgan logotipni ishlab chiqish va uni brending qoidalarini ham yaratib berish"
+      }
+    ]
+  },
+
+  "partners": {
+    "data": [
+      {
+        "imgUrl": "https://uic.group/media/Partners/Asakabank.svg",
+        "url": "https://www.asakabank.uz"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Avloniy.svg",
+        "url": "https://avloniy.uz/oz"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Az_Capital.svg",
+        "url": "https://azcapital.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Express_24.svg",
+        "url": "https://express24.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Imkon.svg",
+        "url": "https://imkon.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/IQ_Education.svg",
+        "url": "https://iqeducation.uz/uz"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/IT_park.svg",
+        "url": "https://it-park.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/milliy-gvardiya_copy_copy.svg",
+        "url": "https://www.milliygvardiya.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Mininovvation.svg",
+        "url": "https://mininnovation.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/PM.svg",
+        "url": "https://projectmanagers.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Pro_SM.svg",
+        "url": "https://prosm.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/revotech_1_1.png",
+        "url": "http://revotech.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/TDIU.svg",
+        "url": "http://tsue.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Universalbank.svg",
+        "url": "https://universalbank.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Uzcard.svg",
+        "url": "https://www.uzcard.uz/uz"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Group_18791.svg",
+        "url": "https://yoshlar.gov.uz/uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/YOSHLAR_ITTIFOQI-01%D1%86%D1%83%D0%B0%D0%BF%D0%B2%D1%8B%D0%BF.png",
+        "url": "http://yi.uz/"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/Dark_H_Moto_-removebg.png",
+        "url": "https://cyberpark.uz/?lang=en"
+      },
+      {
+        "imgUrl": "https://uic.group/media/Partners/atlassian_logo-1200x630.webp",
+        "url": "https://www.atlassian.com/"
+      }
+    ]
+  },
+  "vacansy": {
+    "data": [
+      {
+        "id": "1",
+        "inviteType": "Frontend - VueJS, Javascript dasturchi",
+        "workDays": "dushanba - shanba",
+        "workHours": "09:00 - 18:00",
+        "salary": "8 000 000 - 15 000 000",
+        "date": "06.10.2021",
+        "hour": "10:48",
+        "requirements": [
+          "SOLID, KISS, DRY prinsplarini tushunish",
+          "Ish tajribasi 1+ yil",
+          "JavaScriptni va uning asosiy ishlar tushunchasini bilish (prototypal inheritance, event loop, closures, this keyword, ...)",
+          "Java Scirpt da uni hamma yangi fishkalarini bilib zamonaviy kod yoza olish",
+          "VueJs + Vuex + Vue Router",
+          "Axios, API bilan ishlash uchun",
+          "Yangi o’zgarishlarni o'rganib borish",
+          "HTML / CSS",
+          "SASS / LESS",
+          "NPM/Yarn paket manejerlarini bilish",
+          "Vue CLI / Webpack / Rollup proyekt yig’ilishi uchun",
+          "Git, Git Flow",
+          "NuxtJs ni bilish"
+        ],
+        "tasks": [
+          "Ishlab chiqilgan proyektlarni qo'llab-quvvatlab va ularga yangi funksiyalar joriy qilish",
+          "Jamoada ishlash",
+          "Dasturlash paytida faol ishtrok etish",
+          "QA Testerlar, Backend dasturchilar va Dizaynerlar bilan o'zaro ishlay olish"
+        ]
+      },
+      {
+        "id": "2",
+        "inviteType": "iOS mobil dasturchi",
+        "workDays": "dushanba - shanba",
+        "workHours": "09:00 - 18:00",
+        "salary": "10 000 000 - 20 000 000",
+        "date": "19.02.2022",
+        "hour": "17:03",
+        "requirements": [
+          "Swift 5+",
+          "Xcode, CocoaPods/SPM, UIKit;",
+          "Git (GitHub, GitLab, Bitbucket);",
+          "MVC, MVP, MVVM, VIPER, SOLID;",
+          "Interface Builder, Autolayout;",
+          "GCD;",
+          "URLSession, Alamofire;",
+          "UserDefaults, Core Data;",
+          "Core Location, MapKit;",
+          "View Controllerning hayot sikli, dasturning hayot sikli;",
+          "Ingliz tili (daraja: texnik hujjatlarni o'qish)."
+        ],
+        "tasks": [
+          "Mavjud va yangi ishlab chiqilayotgan loyihalar ustida jamoa bilan birgalikda ishlash."
+        ]
+      },
+      {
+        "id": "3",
+        "inviteType": "Junior Backend — Python, Django dasturchi",
+        "workDays": "dushanba - shanba",
+        "workHours": "09:00 - 18:00",
+        "salary": "3 000 000 - 5 000 000",
+        "date": "26.10.2021",
+        "hour": "18:19",
+        "requirements": [
+          "Python 3, Django, Django Rest framework, Sellery, PostgreSQL bilan ishlash bo'yicha yaxshi bilim va ko'nikma;",
+          "Git bilan ishlash ko'nikmasi;",
+          "Serverlar bilan ishlash tajribasi;",
+          "API bilan ishlash tajribasi;",
+          "+1 yil ish tajribasi",
+          "Toshkent shahrida offline ishlash uchun imkoniyat."
+        ],
+        "tasks": [
+          "API ishlab chiqish va testdan o'tkazish;",
+          "Turli xil darajadagi loyihalarini backend qismida ishlash. Python, Django."
+        ]
+      },
+      {
+        "id": "4",
+        "inviteType": "Senior+ Backend — Python, Django dasturchi",
+        "workDays": "dushanba - shanba",
+        "workHours": "09:00 - 18:00",
+        "salary": "19 000 000 - 21 000 000",
+        "date": "24.03.2022",
+        "hour": "18:56",
+        "requirements": [
+          "Python 3, Django, Django Rest framework, Sellery, PostgreSQL bilan ishlash bo'yicha yaxshi bilim va ko'nikma;",
+          "Portfolio'ga ega bo'lish(kamida 3 ta real loyihada ishlagan hodim);",
+          "Python Django'da kamida 2 yillik ish tajribasi;",
+          "Serverlar bilan ishlash tajribasi;",
+          "JavaScript, HTML5, CSS3 bilan bilim va tajriba;",
+          "Murakkab tizimni loyihalash, texnik audit va mikroservislarni ishlab chiqish bo'yicha yuqori ko'nikmalar;",
+          "Toshkent shahrida offline ishlash uchun imkoniyat."
+        ],
+        "tasks": [
+          "Optimal API ishlab chiqish va testdan o'tkazish;",
+          "Turli xil darajadagi loyihalarini backend qismida ishlash. Python, Django.",
+          "Jamoaning yosh a'zolarini qo'llab-quvvatlash va loyihalardagi kamchiliklarini tekshirish;"
+        ]
+      },
+      {
+        "id": "5",
+        "inviteType": "Tizim administratori",
+        "workDays": "dushanba - shanba",
+        "workHours": "18:40 - 18:40",
+        "salary": "2 000 000 - 4 000 000",
+        "date": "28.06.2022",
+        "hour": "18:43",
+        "requirements": [
+          "Virtual muhit bilan ishlash qobiliyati (MS HyperV, VMware ESXi, Xen).",
+          "Linux yoki boshqa UNIX kabi tizimning asosiy bilimlari maqsadga muvofiqdir.",
+          "Faol tarmoq uskunalarini boshqarish qobiliyati(Mikrotik) talab qilinadi.",
+          "Uskunani mustaqil ravishda kichik ta'mirlash tajribasi talab qilinadi.",
+          "Oliy yoki o'rta maxsus kasb-hunar ta'limi.",
+          "Korporativ antivirus tizimlarini boshqarish qobiliyati.",
+          "Ip telefoniya bilan ishlash qobiliyati kerak.",
+          "Axborot xavfsizligi mahorati mamnuniyat bilan qabul qilinadi."
+        ],
+        "tasks": [
+          "Ish haqi 4.000.000 so'm",
+          "Kerakli ish tajribasi: 1 yil",
+          "To'liq vaqt"
+        ]
+      },
+      {
+        "id": "6",
+        "inviteType": "Rassom illyustrator",
+        "workDays": "dushanba - shanba",
+        "workHours": "09:00 - 18:00",
+        "salary": "2 000 000 - 4 000 000",
+        "date": "01.08.2022",
+        "hour": "21:31",
+        "requirements": [
+          "VJoylashtirish tamoyillari va estetik dizayn kontseptsiyalari haqidagi bilimlarga asoslangan yuqori sifatli, jozibali san'at asarlarini kontseptsiyalashtirish va ishlab chiqarish;",
+          "Boshqalar tomonidan o'ylab topilgan va taxminiy eskizlar yoki belgilash nusxalari ko'rinishida taqdim etilgan aniq statistik raqamlar va chizmalarni yaratish;",
+          "Turli xil mahsulotlar uchun dizayn tajribasini taqdim etish;",
+          "Plakat printerlari va laminatorlar kabi grafik pardozlash uskunalaridan foydalanishda texnik qobiliyat va tajribaga ega bo'lish."
+        ],
+        "tasks": [
+          "Sifatli mahsulotlar ishlab chiqarish bilan birga, mijozlar talablarini tezkor qondirish qobiliyatiga ega bo'lishi;",
+          "Kuchli aloqa va mijozlarga xizmat ko'rsatish qobiliyatlari;",
+          "Barcha darajadagi mijozlar bilan ishlashda professionallikni namoyon etishi kerak;",
+          "Taqdimot vositalari bo'yicha keng bilimga ega bo'lishi kerak;",
+          "Dasturiy ta'minot bo'yicha keng qamrovli bilimga ega, jumladan, Macintosh Adobe Creative Suite (masalan, Illustrator, Photoshop, InDesign), Windows PC, Microsoft Office (masalan, Word, Excel, PowerPoint);",
+          "Adobe Acrobat Pro;",
+          "Shartnoma talablarini qondirish uchun ish vaqtidan tashqari ishlash talab qilinishi mumkin;",
+          "ATSning yangi biznes faoliyatini qo'llab-quvvatlash talab qilinishi mumkin;",
+          "Kuchli ish axloqini namoyish etadi."
+        ]
+      }
+    ]
+  }
+}

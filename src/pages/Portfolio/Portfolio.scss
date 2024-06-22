@@ -1,0 +1,39 @@
+.app__portfolio-page {
+  padding: 14rem 0 5rem;
+  background-color: #1e1e20;
+
+  .portfolio__links-wrapper {
+    display: flex;
+    margin-top: 5rem;
+
+    li {
+      list-style: none;
+      margin-right: 3rem;
+
+      a {
+        font-size: 1.6rem;
+        color: var(--gray-color);
+        text-transform: uppercase;
+        padding: 0.9rem 2rem;
+        border: 1px solid var(--gray-color);
+        text-decoration: none;
+        border-radius: 0.8rem;
+        transition: all 0.2s ease;
+
+        &:hover {
+          border-color: var(--green-color);
+          color: var(--green-color);
+        }
+        &.active {
+            border-color: var(--green-color);
+            color: var(--green-color);
+        }
+      }
+
+    }
+
+    @media screen and (max-width: 992px) {
+      display: none;
+    }
+  }
+}

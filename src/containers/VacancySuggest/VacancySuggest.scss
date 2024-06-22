@@ -1,0 +1,84 @@
+.app__vacansy-suggest {
+  width: 100%;
+  background-color: #1e1e20;
+  padding: 12rem 0 1rem;
+
+  .app__vacansy-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+    background-color: hsla(0, 0%, 100%, 0.07);
+    border-radius: 1.3rem;
+
+    .app__vacansy-info {
+      width: 55%;
+      h1 {
+        font-size: 4rem;
+        color: #fff;
+        margin-bottom: 2rem;
+
+        @media screen and (max-width: 768px) {
+          font-size: 3.5rem;
+        }
+        @media screen and (max-width: 576px) {
+          font-size: 2.4rem;
+        }
+      }
+
+      p {
+        color: var(--gray-color);
+        font-size: 1.5rem;
+        @media screen and (max-width: 576px) {
+          font-size: 1.3rem;
+        }
+      }
+    }
+
+    .app__vacansy-links {
+      width: 40%;
+
+      ul li {
+        list-style: none;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+      }
+
+      span {
+        display: inline-block;
+        width: 3rem;
+        height: 0.2rem;
+        background-color: var(--gray-color);
+        margin-right: 1rem;
+      }
+
+      a {
+        font-weight: 500;
+        color: #fff;
+        font-size: 1.6rem;
+        transition: all 0.3s ease;
+
+        &:hover {
+          color: var(--green-color);
+        }
+
+        @media screen and (max-width: 576px) {
+          font-size: 1.4rem;
+        }
+      }
+    }
+
+    @media screen and (max-width: 992px) {
+      display: block;
+
+      .app__vacansy-info{
+        width: 100%;
+      }
+
+      .app__vacansy-links{
+        width: 100%;
+        margin-top: 3rem;
+      }
+    }
+  }
+}

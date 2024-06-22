@@ -1,0 +1,181 @@
+.app__vacansyPage {
+  width: 100%;
+  background-color: #1e1e20;
+  padding: 15rem 0 4rem;
+
+  .app__vacansyPage-header {
+    background-color: #2b2b2e;
+    padding: 3rem 6rem;
+    border-radius: 1rem;
+
+    h1 {
+      font-size: 3.5rem;
+      color: #fff;
+
+      @media screen and (max-width: 992px) {
+        font-size: 3.4rem;
+      }
+      @media screen and (max-width: 768px) {
+        font-size: 3rem;
+      }
+      @media screen and (max-width: 567px) {
+        font-size: 2rem;
+      }
+    }
+
+    .app__vacansy-date {
+      display: flex;
+      align-items: center;
+      padding: 2rem 0;
+      margin-top: 3rem;
+      border-top: 1px solid hsla(0, 0%, 100%, 0.1);
+
+      > div {
+        display: flex;
+        align-items: center;
+        margin-right: 3rem;
+
+        i {
+          font-size: 2.4rem;
+          color: var(--gray-color);
+        }
+
+        p {
+          font-size: 1.4rem;
+          color: var(--gray-color);
+          margin-left: 1rem;
+        }
+      }
+    }
+
+    .salary {
+      span{
+        font-size: 1.5rem;
+        color: #fff;
+        opacity: 0.5;
+      }
+      i{
+        margin-right: 1rem;
+      }
+    }
+  }
+
+  .app__vacansy-requirements,
+  .app__vacansy-tasks {
+    margin-top: 3rem;
+
+    ul li {
+      margin-left: 2.4rem;
+      font-size: 1.6rem;
+      color: var(--gray-color);
+    }
+  }
+
+  .app__vacansy-info {
+    margin-top: 3rem;
+
+    p {
+      font-size: 1.5rem;
+      color: var(--gray-color);
+    }
+  }
+
+  .app__vacansy-heading {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 400;
+  }
+
+  .app__vacansy-btn {
+    width: 23rem;
+
+    a {
+      width: max-content;
+      padding: 1.5rem 3rem;
+      font-size: 1.5rem;
+    }
+  }
+
+  .app__vacansy-modal {
+    position: fixed;
+    z-index: 60;
+    width: 80rem;
+    background-color: #2b2b2e;
+    padding: 4rem;
+    border-radius: 1.3rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    .app__vacansy-modalClose {
+      position: absolute;
+      right: 1rem;
+      top: -5rem;
+      cursor: pointer;
+
+      i {
+        font-size: 4rem;
+        color: #fff;
+      }
+    }
+
+    .vacansy__modal-input {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 3rem;
+
+      .form-input {
+        width: 47%;
+
+        input:focus {
+          outline: none;
+        }
+
+        @media screen and (max-width: 576px) {
+          width: 100%;
+          margin-bottom: 2rem;
+        }
+      }
+
+      @media screen and (max-width: 576px) {
+        display: block;
+        width: 100%;
+      }
+    }
+
+    .load-cv {
+      input[type="file"] {
+        display: none;
+      }
+
+      .custom-file-upload {
+        display: inline-block;
+        padding: 1.2rem 0rem 1.2rem 5rem;
+        background-color: #2e2e30;
+        border-radius: 1rem;
+        font-size: 1.4rem;
+        color: var(--gray-color);
+        cursor: pointer;
+
+        span {
+          margin: 0 1rem 0 6rem;
+          border-radius: 50%;
+        }
+
+        i {
+          color: var(--green-color);
+          font-size: 1.8rem;
+        }
+      }
+    }
+
+    .app__vacansy-btn {
+      float: right;
+    }
+
+    @media screen and (max-width: 992px) {
+      width: 85%;
+      padding: 2rem;
+    }
+  }
+}

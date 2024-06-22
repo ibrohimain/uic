@@ -1,0 +1,236 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+.app__about {
+  position: relative;
+  width: 100%;
+  background-color: #1e1e20;
+  padding: 8rem 0;
+  overflow: hidden;
+  margin-top: 39vh;
+
+  .app__about-wrapper {
+    position: relative;
+    width: 100%;
+    padding: inherit;
+    display: flex;
+    justify-content: space-between;
+
+    @media screen and (max-width: 1200px) {
+      display: block;
+    }
+  }
+
+  .app__about-images {
+    display: flex;
+    align-items: center;
+
+    .app__about-img {
+      cursor: pointer;
+      position: relative;
+      width: 30rem;
+      margin-right: 2rem;
+      border-radius: 1.4rem;
+
+      img {
+        width: 100%;
+        border-radius: inherit;
+      }
+
+      &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(
+          0deg,
+          rgba(0, 167, 149, 0.28),
+          rgba(0, 167, 149, 0.28)
+        );
+        opacity: 0;
+        transition: 0.4s ease;
+      }
+
+      .expand-icon {
+        width: 3rem;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        transition: 0.4s ease;
+      }
+
+      &:hover::before,
+      &:hover .expand-icon {
+        opacity: 1;
+      }
+    }
+
+    .app__about-imgText {
+      display: flex;
+      align-items: center;
+      border-top: 1px solid var(--gray-color);
+      margin-top: 3rem;
+      padding: 3rem 0;
+      margin-right: 2rem;
+
+      h1 {
+        color: #fff;
+        margin-right: 1rem;
+        font-size: 5rem;
+      }
+
+      h3 {
+        font-size: 2rem;
+        color: var(--green-color);
+        font-weight: 500;
+        text-transform: uppercase;
+      }
+    }
+
+    @media screen and (max-width: 1200px) {
+      justify-content: center;
+    }
+    @media screen and (max-width: 768px) {
+      display: none;
+    }
+  }
+
+  .app__about-desc {
+    width: 44%;
+
+    .about__desc-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2rem;
+      span {
+        display: inline-block;
+        width: 3rem;
+        height: 0.2rem;
+        background-color: var(--gray-color);
+      }
+
+      h3 {
+        font-size: 1.7rem;
+        font-weight: 500;
+        margin-left: 2rem;
+        color: var(--green-color);
+      }
+    }
+
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
+  }
+
+  .about-info {
+    h1 {
+      font-size: 3.8rem;
+      color: #fff;
+      font-weight: 600;
+      margin-bottom: 2rem;
+
+      @media screen and (max-width: 768px) {
+        font-size: 3.5rem;
+      }
+    }
+
+    p {
+      font-size: 1.5rem;
+      color: var(--gray-color);
+
+      @media screen and (max-width: 1200px) {
+        font-size: 1.4rem;
+      }
+      @media screen and (max-width: 768px) {
+        font-size: 1.3rem;
+      }
+    }
+  }
+
+  .why-us {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+
+    > div {
+      display: flex;
+      align-items: center;
+
+      i {
+        font-size: 5rem;
+        color: var(--green-color);
+      }
+
+      span {
+        color: #fff;
+        font-size: 1.5rem;
+        margin-left: 2rem;
+      }
+    }
+
+    @media screen and (max-width: 400px) {
+      width: 100%;
+
+      > div {
+        i {
+          font-size: 3rem;
+        }
+
+        span {
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}
+
+// Fix style react-slick library
+.slick-slider {
+  position: fixed !important;
+  width: 40rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 60;
+
+  .slick-slide {
+    display: block;
+    width: 35rem;
+    overflow: hidden;
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+      transform: scale(1.03);
+      object-fit: cover;
+    }
+  }
+
+  .slick-next:before,
+  .slick-prev:before {
+    opacity: 1 !important;
+    font-family: "bootstrap-icons" !important;
+    font-size: 3.5rem !important;
+  }
+
+  .slick-next:before {
+    content: "\F285" !important;
+  }
+
+  .slick-prev:before {
+    content: "\F284" !important;
+  }
+
+  .slick-prev {
+    left: -5rem !important;
+  }
+  .slick-next {
+    right: -3.5rem !important;
+  }
+}
+//  End fix style react-slick library
